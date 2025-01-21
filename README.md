@@ -24,4 +24,4 @@ A sophisticated landing page featuring a custom animated loading sequence built 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone git@github.com:oussamaettaqui/LandingPageAnimation.git
